@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+uploads/*.pdf
+vectorstore/
+
+.env
+
+.idea/
+.vscode/
